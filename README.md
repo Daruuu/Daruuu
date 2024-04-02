@@ -9,14 +9,18 @@
   </a>
 </div>
 <h2 align="center">Apasionado Programador Junior Backend | Java & Spring Boot Enthusiast | </h2>
+
 🚀 Sobre Mí
 
-Soy un programador junior enfocado en backend, con una pasión por crear soluciones escalables y eficientes usando Java y Spring Boot. Actualmente, estoy ampliando mis habilidades en programación de sistemas y desarrollo de software en la Escuela 42 de Barcelona, donde me enfrento a desafíos que afinan mi pensamiento crítico y habilidades de codificación en C.
+Soy un programador Junior enfocado en el backend utilizando el stack Java con Springboot. 
+Actualmente, estoy ampliando mis habilidades en programación y desarrollo de software en la Escuela 42 de Barcelona,
+ donde me enfrento a desafíos que afinan mi pensamiento crítico y habilidades de codificación en C.
 
 🛠 Habilidades
+
 ``` yaml
     Lenguajes: Java, C, SQL
-    Frameworks: Spring Boot, Hibernate
+    Frameworks: Spring Boot, Hibernate, JPA, NodeJS, Express
     Herramientas: Docker, Git, Vim
     Bases de Datos: MySQL, MongoDB
 ```
@@ -24,28 +28,20 @@ Soy un programador junior enfocado en backend, con una pasión por crear solucio
 🌱 Estoy Aprendiendo
 
 ``` yaml
+    Programación avanzada en C (42 Barcelona)
     Microservicios con Spring Boot.
-    Programación avanzada en C, 42 Barcelona
 ```
 
 💼 Proyectos Destacados
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=Libft_project)](https://github.com/Daruuu/Libft_project)
-
-📫 Cómo Contactarme
-
-    LinkedIn: [https://www.linkedin.com/in/daruny/]
-    Email: [thedaruny16@gmail.com]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=JuegoConecta4)](https://github.com/Daruuu/JuegoConecta4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=ProjectFullstack)](https://github.com/Daruuu/ProjectFullstack)
 
 ## ▪️ Github stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daruuu&hide=css&langs_count=5)](https://github.com/Daruuu/)
 
 ![Daruny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daruuu&hide=contribs,stars)
-
-## More relevant Projects:
-
-Libft Project: Mi primera biblioteca en C, recreando funciones estándar de C para comprender mejor la memoria dinámica y las estructuras de datos.
 
 [![Daruuu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daruuu)]()
