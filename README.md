@@ -22,6 +22,7 @@ Actualmente, estoy ampliando mis habilidades en programación y desarrollo de so
     Lenguajes: Java, C, SQL
     Frameworks: Spring Boot, Hibernate, JPA, NodeJS, Express
     Herramientas: Docker, Git, Vim
+    Entornos de desarrollo: Virtual Box, KVM, Windows, Linux, Mac OS
     Bases de Datos: MySQL, MongoDB
 ```
 
