@@ -45,4 +45,5 @@ Actualmente, estoy ampliando mis habilidades en programación y desarrollo de so
 
 ![Daruny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daruuu&hide=contribs,stars)
 
-[![Daruuu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daruuu)]()
+
+[![wakatime](https://wakatime.com/badge/user/018d7050-d792-45fd-b560-fc782c888720.svg)](https://wakatime.com/@018d7050-d792-45fd-b560-fc782c888720)
