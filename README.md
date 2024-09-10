@@ -1,49 +1,62 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdqaDA2cm0ybXB1NDVka2EzOXdzZjl5MDRsazByaXVyYmtxbDhqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100" />
   <br>
-  <h1>👋 Hola, soy Daruny</h1>
+  <h1>👋 Hi, I'm Daruny</h1>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daruny/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h2 align="center">Apasionado Programador Junior Backend | Java & Spring Boot Enthusiast | </h2>
 
-🚀 Sobre Mí
+<h2 align="center">Passionate Junior Software Developer Enthusiast</h2>
 
-Soy un programador Junior enfocado en el backend utilizando el stack Java con Springboot. 
-Actualmente, estoy ampliando mis habilidades en programación y desarrollo de software en la Escuela 42 de Barcelona,
- donde me enfrento a desafíos que afinan mi pensamiento crítico y habilidades de codificación en C.
+<div align="center">
+  <a href="https://wakatime.com/@018d7050-d792-45fd-b560-fc782c888720">
+    <img src="https://wakatime.com/badge/user/018d7050-d792-45fd-b560-fc782c888720.svg" alt="wakatime badge">
+  </a>
+</div>
 
-🛠 Habilidades
+🚀 **About Me**
 
-``` yaml
-    Lenguajes: Java, C, SQL
-    Frameworks: Spring Boot, Hibernate, JPA, NodeJS, Express
-    Herramientas: Docker, Git, Vim
-    Entornos de desarrollo: Virtual Box, KVM, Windows, Linux, Mac OS
-    Bases de Datos: MySQL, MongoDB
+I am a software developer specializing in backend development, with a strong focus on the **Java and Spring Boot stack**.
+<br>
+<br>
+I have __1 year of experience__ in unit testing within microservices, utilizing powerful tools like __JUnit 5__ and __Mockito__
+<br>
+to conduct comprehensive end-to-end testing.
+<br><br>
+Currently, I am expanding **my skills in programming** and software development at the **42 Barcelona campus**.<br>
+There, I tackle challenges that enhance **my critical thinking and coding abilities**, especially in the C programming language and C++.
+
+🛠 **Skills**
+
+```yaml
+Languages: Java, C, JavaScript
+Databases: MongoDB, SQL, MySQL
+Backend Frameworks: Spring Boot, Hibernate, JPA, Node.js, Express
+Testing Frameworks: JUnit 5, Mockito, CUnit
+Debugging & Build Tools: GDB, Valgrind, CMake
+Development Tools: Docker, Git, Vim, Bash
+Virtualization Platforms: VirtualBox, KVM
+Operating Systems: Windows, Linux, macOS
+IDEs/Text Editors: Eclipse, IntelliJ IDEA, CLion, Vim, VS Code
+Cloud and Scalable Services: AWS
+Principles of Programming: Clean Code, SOLID, DRY (Don't Repeat Yourself)
 ```
 
-🌱 Estoy Aprendiendo
+## ▪️ Github stats 📊
 
-``` yaml
-    Programación avanzada en C (42 Barcelona)
-    Microservicios con Spring Boot.
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daruuu&hide=css&langs_count=3)](https://github.com/Daruuu/)
 
+![Daruny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daruuu&hide=contribs,stars)
+
+<!--
 💼 Proyectos Destacados
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=Libft_project)](https://github.com/Daruuu/Libft_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=JuegoConecta4)](https://github.com/Daruuu/JuegoConecta4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=ProjectFullstack)](https://github.com/Daruuu/ProjectFullstack)
+-->
 
-## ▪️ Github stats 📊
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daruuu&hide=css&langs_count=5)](https://github.com/Daruuu/)
-
-![Daruny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daruuu&hide=contribs,stars)
-
-
-[![wakatime](https://wakatime.com/badge/user/018d7050-d792-45fd-b560-fc782c888720.svg)](https://wakatime.com/@018d7050-d792-45fd-b560-fc782c888720)
