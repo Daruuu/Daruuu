@@ -23,9 +23,7 @@
 I am a software developer specializing in backend development, with a strong focus on the **Java and Spring Boot stack**.
 <br>
 <br>
-I have __1 year of experience__ in unit testing within microservices, utilizing powerful tools like __JUnit 5__ and __Mockito__
-<br>
-to conduct comprehensive end-to-end testing.
+I have __2 year of experience__ programming in Java and creating Unit Testing within microservices, utilizing powerful tools like __JUnit 5__ and __Mockito__ to conduct comprehensive end-to-end testing.
 <br><br>
 Currently, I am expanding **my skills in programming** and software development at the **42 Barcelona campus**.<br>
 There, I tackle challenges that enhance **my critical thinking and coding abilities**, especially in the C programming language and C++.
