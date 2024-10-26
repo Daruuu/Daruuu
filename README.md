@@ -18,29 +18,29 @@
   </a>
 </div>
 
-🚀 **About Me**
+### 🚀 **About Me** 
 
-I am a software developer specializing in backend development, with a strong focus on the **Java and Spring Boot stack**.
+I have 1.5 years of solid experience working with __Java__ and developing __unit tests__ for microservices in a professional environment. I utilize powerful tools such as **JUnit 5** and **Mockito** to conduct comprehensive end-to-end testing.
 <br>
-<br>
-I have __2 year of experience__ programming in Java and creating Unit Testing within microservices, utilizing powerful tools like __JUnit 5__ and __Mockito__ to conduct comprehensive end-to-end testing.
-<br><br>
-Currently, I am expanding **my skills in programming** and software development at the **42 Barcelona campus**.<br>
-There, I tackle challenges that enhance **my critical thinking and coding abilities**, especially in the C programming language and C++.
 
-🛠 **Tech Stack**
+### 📚 Currently Learning
+
+- I'm expanding my skills in **programming** and **software development** at 42 Barcelona.
+- This process enhances **my critical thinking** and my capabilities in the programming languages **C** and **C++**.
+ 
+## 💻 **Tech Stack**
 
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### Fronted Stack
+#### Fronted Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Backend Stack
+#### Backend Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -56,18 +56,41 @@ There, I tackle challenges that enhance **my critical thinking and coding abilit
 
 ### Testing Frameworks
 ![](https://img.shields.io/badge/JUnit5-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Cmoka-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 
 ### Debugging & Build Tools
-![]()
-![]()
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-1F9E2C?style=for-the-badge&logo=valgrind&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+### Development Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Virtualization Platforms
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=kvm&logoColor=white)
+
+### Operating Systems
+
+![](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) 
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) <br>
+
+### IDEs/Text Editors
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Cloud and Scalable Services
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 <!--
 ```yaml
