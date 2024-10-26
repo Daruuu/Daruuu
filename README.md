@@ -28,8 +28,48 @@ I have __2 year of experience__ programming in Java and creating Unit Testing wi
 Currently, I am expanding **my skills in programming** and software development at the **42 Barcelona campus**.<br>
 There, I tackle challenges that enhance **my critical thinking and coding abilities**, especially in the C programming language and C++.
 
-🛠 **Skills**
+🛠 **Tech Stack**
 
+#### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Fronted Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Backend Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)<br>
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br>
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Testing Frameworks
+![](https://img.shields.io/badge/JUnit5-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Cmoka-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+
+### Debugging & Build Tools
+![]()
+![]()
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+<!--
 ```yaml
 Languages: Java, C, JavaScript
 Databases: MongoDB, SQL, MySQL
@@ -43,6 +83,7 @@ IDEs/Text Editors: Eclipse, IntelliJ IDEA, CLion, Vim, VS Code
 Cloud and Scalable Services: AWS
 Principles of Programming: Clean Code, SOLID, DRY (Don't Repeat Yourself)
 ```
+-->
 
 ## ▪️ Github stats 📊
 
