@@ -20,7 +20,7 @@
 
 ### 🚀 **About Me** 
 
-I have 1.5 years of solid experience working with __Java__ and developing __unit tests__ for microservices in a professional environment. I utilize powerful tools such as **JUnit 5** and **Mockito** to conduct comprehensive end-to-end testing.
+With 2 years of solid experience working with __Java__ and developing __unit tests__ for microservices in a professional environment. I utilize powerful tools such as **JUnit 5** and **Mockito** to conduct comprehensive end-to-end testing.
 <br>
 
 ### 📚 Currently Learning
