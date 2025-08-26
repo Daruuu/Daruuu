@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdqaDA2cm0ybXB1NDVka2EzOXdzZjl5MDRsazByaXVyYmtxbDhqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100" />
 <br>
   <h1>👋 Hi, I'm Daruny</h1>
-  <h2 align="center">Passionate Junior Software Developer Enthusiast</h2>
+  <h2 align="center">Passionate Software Developer Enthusiast</h2>
 </div>
 
 <div id="badges" align="center">
@@ -19,13 +19,23 @@
 
 ### 🚀 **About Me** 
 
-With 2 years of solid experience working with __Java__ and developing __unit tests__ for microservices in a professional environment. I utilize powerful tools such as **JUnit 5** and **Mockito** to conduct comprehensive end-to-end testing.
-<br>
+I’m a Software Developer with 2+ years of experience in enterprise environments, mainly working with **Java**. I enjoy building scalable backend functionalities, writing reliable tests with **JUnit 5 and Mockito**, and applying **Clean Code** and **SOLID principles** to deliver maintainable solutions.  
 
-### 📚 Currently Learning
+Currently, I’m part of **42 Barcelona**, where I’m strengthening my skills in **algorithms, data structures, low-level programming, and networks**, through peer-to-peer projects that enhance collaboration, problem-solving, and resilience.  
 
-- I'm expanding my skills in **programming** and **software development** at 42 Barcelona.
-- This process enhances **my critical thinking** and my capabilities in the programming languages **C** and **C++**.
+🌱 I’m a **curious and proactive learner**, passionate about continuous growth, and I enjoy sharing knowledge while learning from others.  
+
+---
+
+🤝 **What drives me**  
+- Working in **collaborative and Agile teams**.
+- Solving complex problems with creativity and persistence.
+- Growing as a developer in environments with **mentorship, feedback, and innovation**  
+- Exploring new technologies (currently interested in **C++ & QA practices**)  
+
+---
+
+
  
 ## 💻 **Tech Stack**
 
