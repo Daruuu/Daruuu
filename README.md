@@ -110,6 +110,6 @@ I have 2+ years of experience building backend services primarily with **Java**.
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/daruny/
-- Email: your.email@example.com
+- Email: thedaruny16@gmail.com
 
 
