@@ -97,10 +97,10 @@ I have 2+ years of experience building backend services primarily with **Java**.
 - [Minishell](https://github.com/Daruuu/minishell) — a minimal Unix shell: tokenization, parsing, exec, redirections, pipes, and signals.
 - [cub3D](https://github.com/Daruuu/cub3D) — raycasting engine in C (MiniLibX), textures, input handling, and simple rendering.
 
-## 📌 Featured projects
+[//]: # (## 📌 Featured projects)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=Libft_project&theme=transparent&hide_border=true)](https://github.com/Daruuu/Libft_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=ProjectFullstack&theme=transparent&hide_border=true)](https://github.com/Daruuu/ProjectFullstack)
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=Libft_project&theme=transparent&hide_border=true&#41;]&#40;https://github.com/Daruuu/Libft_project&#41;)
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=Daruuu&repo=ProjectFullstack&theme=transparent&hide_border=true&#41;]&#40;https://github.com/Daruuu/ProjectFullstack&#41;)
 
 ## 📊 GitHub stats
 
