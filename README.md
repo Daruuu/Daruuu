@@ -1,11 +1,17 @@
 <div id="header" align="center">
 
   <h1>👋 Hi, I'm Daruny</h1>
-
   <p>
     C++ Software Engineer focused on Linux systems, debugging, performance optimization, and backend/game development.
   </p>
-
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/daruny/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wakatime.com/@018d7050-d792-45fd-b560-fc782c888720">
+    <img src="https://wakatime.com/badge/user/018d7050-d792-45fd-b560-fc782c888720.svg" alt="WakaTime"/>
+  </a>
 </div>
 
 ---
